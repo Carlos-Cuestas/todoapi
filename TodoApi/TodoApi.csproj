@@ -173,6 +173,10 @@
     <Compile Include="Migrations\202309202338079_TodoItem Moddel.designer.cs">
       <DependentUpon>202309202338079_TodoItem Moddel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202309210038491_nuevoss.cs" />
+    <Compile Include="Migrations\202309210038491_nuevoss.designer.cs">
+      <DependentUpon>202309210038491_nuevoss.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\TodoContext.cs" />
     <Compile Include="Models\TodoItem.cs" />
@@ -321,6 +325,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202309202338079_TodoItem Moddel.resx">
       <DependentUpon>202309202338079_TodoItem Moddel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202309210038491_nuevoss.resx">
+      <DependentUpon>202309210038491_nuevoss.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

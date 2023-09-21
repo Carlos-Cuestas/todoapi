@@ -10,5 +10,7 @@ namespace TodoApi.Models
         public int Id { get; set; }
         public string Tarea { get; set; }
         public bool Completo { get; set; }
+
+        public string Responsable { get; set; }
     }
 }

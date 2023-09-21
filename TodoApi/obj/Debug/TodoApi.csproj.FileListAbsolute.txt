@@ -99,3 +99,4 @@ C:\Users\UDB\Desktop\TodoApi\TodoApi\bin\EntityFramework.xml
 C:\Users\UDB\Desktop\TodoApi\TodoApi\bin\EntityFramework.SqlServer.xml
 C:\Users\UDB\Desktop\TodoApi\TodoApi\obj\Debug\TodoApi.Migrations.TodoItemModdel.resources
 C:\Users\UDB\Desktop\TodoApi\TodoApi\obj\Debug\TodoApi.csproj.GenerateResource.cache
+C:\Users\UDB\Desktop\TodoApi\TodoApi\obj\Debug\TodoApi.Migrations.nuevoss.resources
